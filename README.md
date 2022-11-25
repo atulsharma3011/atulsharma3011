@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Atul Sharma</h1>
 <h3 align="center">A passionate JAVA developer from India.</h3>
 
-- 🔭 I’m currently working on **android development**
+- 🔭 I’m currently working on **Full Stack Web Development**
 
-- 🌱 I’m currently learning **more in DSA**
+- 🌱 I’m currently learning **More in DSA**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
